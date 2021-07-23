@@ -1,3 +1,4 @@
-# EJERCICIOS - EXAMEN FINAL ( 23-07-2021 )
+# JEFFERSON ALAVA - 3RO-VA
 
-    • Habra un ejercicios por carpeta.
+_EJERCICIOS - EXAMEN FINAL ( 23-07-2021 )_
+• Habra un ejercicios por carpeta.
